@@ -1,5 +1,5 @@
-NAME: swetha R
-REG NO: 212223040221
+# NAME: swetha R
+# REG NO: 212223040221
 
 # Led-control-using-Arduino
 
