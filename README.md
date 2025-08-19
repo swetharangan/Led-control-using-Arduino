@@ -93,3 +93,5 @@ void loop() {
 <img width="1620" height="786" alt="ligjt" src="https://github.com/user-attachments/assets/746fea66-c004-411e-895d-ddf248c12e62" />
 
 ## RESULT
+
+The project designed and implemented a system for LED control using an Arduino microcontroller and a push button successfully.
