@@ -59,8 +59,37 @@ Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 
+![circuit diagram](https://github.com/user-attachments/assets/275819f9-8e89-41fb-8a1f-8c5e0e2f1d1e)
+
+
 ## PROGRAM
+```
+void setup() {
+  pinMode(10,OUTPUT);
+  pinMode(4,INPUT);
+}
+
+void loop() {
+  int button_status=digitalRead(4);
+  if (button_status==HIGH)
+  {
+    digitalWrite(10,HIGH);
+    delay(100);
+    digitalWrite(10,LOW);
+    delay(100);
+  }
+  else
+  {
+    digitalWrite(10,LOW);
+  }
+
+}
+```
 
 ## OUTPUT
+
+<img width="1427" height="786" alt="light" src="https://github.com/user-attachments/assets/a5cfec16-a856-424d-8bcd-63a7c3412ae4" />
+
+<img width="1620" height="786" alt="ligjt" src="https://github.com/user-attachments/assets/746fea66-c004-411e-895d-ddf248c12e62" />
 
 ## RESULT
