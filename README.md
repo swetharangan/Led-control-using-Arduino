@@ -62,7 +62,8 @@ Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 
-![circuit diagram](https://github.com/user-attachments/assets/275819f9-8e89-41fb-8a1f-8c5e0e2f1d1e)
+<img width="857" height="596" alt="Screenshot 2025-08-24 210847" src="https://github.com/user-attachments/assets/eeef03cd-a5e8-46a0-9671-696f4daefe90" />
+
 
 
 ## PROGRAM
@@ -91,9 +92,10 @@ void loop() {
 
 ## OUTPUT
 
-<img width="1427" height="786" alt="light" src="https://github.com/user-attachments/assets/a5cfec16-a856-424d-8bcd-63a7c3412ae4" />
+<img width="699" height="520" alt="Screenshot 2025-08-24 210928" src="https://github.com/user-attachments/assets/4cb63b1c-7efb-4a78-bf3d-22b72b846932" />
 
-<img width="1620" height="786" alt="ligjt" src="https://github.com/user-attachments/assets/746fea66-c004-411e-895d-ddf248c12e62" />
+<img width="699" height="520" alt="Screenshot 2025-08-24 210928" src="https://github.com/user-attachments/assets/df9fbdcf-9082-4122-8a44-9f41ac687435" />
+
 
 ## RESULT
 
